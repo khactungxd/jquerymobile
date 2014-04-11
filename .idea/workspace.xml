@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="56" selection-start="998" selection-end="1006" vertical-scroll-proportion="-11.115385" vertical-offset="102" max-vertical-offset="2856">
+            <state line="24" column="25" selection-start="1165" selection-end="1165" vertical-scroll-proportion="22.538462" vertical-offset="994" max-vertical-offset="2856">
               <folding>
                 <marker date="1397199336428" expanded="true" signature="1687:1751" placeholder="..." />
               </folding>
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mobile-1.4.2.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jquery.mobile-1.4.2.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/jquery.mobile-1.4.2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4691" column="20" selection-start="245201" selection-end="245201" vertical-scroll-proportion="0.0" vertical-offset="79308" max-vertical-offset="79951">
+            <state line="4699" column="0" selection-start="245405" selection-end="245437" vertical-scroll-proportion="0.79518074" vertical-offset="79355" max-vertical-offset="80019">
               <folding>
                 <element signature="e#351#1160#2" expanded="true" />
                 <element signature="e#1209#2167#2" expanded="true" />
@@ -148,7 +148,7 @@
       <file leaf-file-name="Host.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Host.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="34" selection-start="887" selection-end="887" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="952">
+            <state line="27" column="75" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -157,7 +157,7 @@
       <file leaf-file-name="Service.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Service.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="42" selection-start="1353" selection-end="1353" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="595">
+            <state line="26" column="60" selection-start="1456" selection-end="1456" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -184,7 +184,7 @@
       <file leaf-file-name="DetailService.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/DetailService.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
+            <state line="8" column="20" selection-start="415" selection-end="415" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -199,10 +199,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="2185" selection-end="2341" vertical-scroll-proportion="-0.25553915" vertical-offset="1312" max-vertical-offset="1989">
+            <state line="100" column="1" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.0" vertical-offset="1312" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
@@ -235,14 +235,14 @@
         <option value="$PROJECT_DIR$/HTML/AddHost.html" />
         <option value="$PROJECT_DIR$/Test.txt" />
         <option value="$PROJECT_DIR$/index1.html" />
-        <option value="$PROJECT_DIR$/HTML/Host.html" />
-        <option value="$PROJECT_DIR$/HTML/Service.html" />
         <option value="$PROJECT_DIR$/phonegapapis.html" />
         <option value="$PROJECT_DIR$/HTML/DetailService.html" />
-        <option value="$PROJECT_DIR$/css/jquery.mobile-1.4.2.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/HTML/DetailHost.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/HTML/Host.html" />
+        <option value="$PROJECT_DIR$/HTML/Service.html" />
+        <option value="$PROJECT_DIR$/css/jquery.mobile-1.4.2.css" />
       </list>
     </option>
   </component>
@@ -494,13 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/DetailService.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonegapapis.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="43" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="8721">
@@ -508,9 +501,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/DetailHost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="66" selection-start="401" selection-end="401" vertical-scroll-proportion="-2.9615386" vertical-offset="42" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="1" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.0" vertical-offset="1312" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="60" selection-start="1456" selection-end="1456" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/DetailService.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="415" selection-end="415" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Host.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="75" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="1165" selection-end="1165" vertical-scroll-proportion="22.538462" vertical-offset="994" max-vertical-offset="2856">
+          <folding>
+            <marker date="1397199336428" expanded="true" signature="1687:1751" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/jquery.mobile-1.4.2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4691" column="20" selection-start="245201" selection-end="245201" vertical-scroll-proportion="0.0" vertical-offset="79308" max-vertical-offset="79951">
+        <state line="4699" column="0" selection-start="245405" selection-end="245437" vertical-scroll-proportion="0.79518074" vertical-offset="79355" max-vertical-offset="80019">
           <folding>
             <element signature="e#351#1160#2" expanded="true" />
             <element signature="e#1209#2167#2" expanded="true" />
@@ -614,43 +651,6 @@
             <element signature="e#115787#116619#2" expanded="true" />
             <element signature="e#197843#197932#2" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="56" selection-start="998" selection-end="1006" vertical-scroll-proportion="-11.115385" vertical-offset="102" max-vertical-offset="2856">
-          <folding>
-            <marker date="1397199336428" expanded="true" signature="1687:1751" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Host.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="887" selection-end="887" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Service.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="42" selection-start="1353" selection-end="1353" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/DetailHost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="66" selection-start="401" selection-end="401" vertical-scroll-proportion="-2.9615386" vertical-offset="42" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="2185" selection-end="2341" vertical-scroll-proportion="-0.25553915" vertical-offset="1312" max-vertical-offset="1989">
-          <folding />
         </state>
       </provider>
     </entry>
