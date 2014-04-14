@@ -102,7 +102,7 @@
                 $("#tab2").on("click", function() {
                     divClone = $("#pageone").clone();
                     $('#tieudepage').html("PhonegapAPIS");
-                    $.get('./phonegapapis.html').success(function(html) {
+                    $.get('./HTML/Service.html').success(function(html) {
                         $('#main-content').html(html);
                     });
                 });
@@ -115,21 +115,6 @@
                     });
                 });
 
-                $("#tab4").on("click", function() {
-                    divClone = $("#pageone").clone();
-                    $('#tieudepage').html("tab4");
-                    $.get('./HTML/Service.html').success(function(html) {
-                        $('#main-content').html(html);
-                    });
-                });
-
-                $("#tab5").on("click", function() {
-                    divClone = $("#pageone").clone();
-                    $('#tieudepage').html("tab5");
-                    $.get('./HTML/Service.html').success(function(html) {
-                        $('#main-content').html(html);
-                    });
-                });
 
             </script>
         </div>
