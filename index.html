@@ -47,8 +47,6 @@
                         <li><a href="#" id="tab1">Tab1</a></li>
                         <li><a href="#" id="tab2">Tab2</a></li>
                         <li><a href="#" id="tab3">Tab3</a></li>
-                        <li><a href="#" id="tab4">Tab4</a></li>
-                        <li><a href="#" id="tab5">Tab5</a></li>
                     </ul>
                 </div><!-- /navbar -->
             </div>
@@ -63,21 +61,11 @@
                     switch (parameter) {
                         case (parameter == 2):
                                 $('#tieudepage').html("PhonegapAPIS");
-                                $.get('./phonegapapis.html').success(function(html) {
+                                $.get('./HTML/Service.html').success(function(html) {
                                     $('#main-content').html(html);
                                 });
                         case (parameters == 3):
                                 $('#tieudepage').html("tab3");
-                                $.get('./HTML/Service.html').success(function(html) {
-                                    $('#main-content').html(html);
-                                });
-                        case (parameters == 4):
-                                $('#tieudepage').html("tab4");
-                                $.get('./HTML/Service.html').success(function(html) {
-                                    $('#main-content').html(html);
-                                });
-                        case (parameters == 5):
-                                $('#tieudepage').html("tab5");
                                 $.get('./HTML/Service.html').success(function(html) {
                                     $('#main-content').html(html);
                                 });
