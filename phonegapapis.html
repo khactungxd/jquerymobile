@@ -3,9 +3,9 @@
 <head>
     <title>Capture Photo</title>
 
-    <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.2.css" />
-    <script src="js/jquery-2.1.0.js"> type="text/javascript"</script>
-    <script src="js/jquery.mobile-1.4.2.js"> type="text/javascript"</script>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
 
     <!--<script type="text/javascript" charset="utf-8" src="cordova.js"></script>-->
     <script type="text/javascript" charset="utf-8">
@@ -475,25 +475,27 @@
 </head>
 <body>
 <div id="camera">
-    <button class="camera-control" onclick="capturePhoto();">Capture Photo</button>
-    <button class="camera-control" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">Take Photo From Library</button>
-    <button class="camera-control" onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">Take Photo From Album</button>
-    <button class="camera-control" onclick="captureAudio();">Capture Audio</button> <br>
-    <button class="camera-control" onclick="Accelerometer();">Touch</button> <br>
-    <button class="camera-control" onclick="GetGeo();">Get Location</button> <br>
-    <button class="camera-control" onclick="checkConnection();">Check Current Connection</button> <br>
-    <button class="camera-control" onclick="aboutDevice();">About Device</button> <br>
-    <button class="camera-control" onclick="showAlertNotification();">Notification</button> <br>
-    <button class="camera-control" onclick="checkLocale();">Name of Locale</button> <br>
-    <button class="camera-control" onclick="onappbrowse();">Goto Google.com</button> <br>
-    <button class="camera-control" onclick="Compass();">Compass</button> <br>
-    <button class="camera-control" onclick="Contacts();">Contacts</button> <br>
-    <button class="camera-control" onclick="ReadFile();">Read File</button> <br>
-    <button class="camera-control" onclick="WriteFile();">Write File</button> <br>
-    <button class="camera-control" onclick="playAudio();">Play media</button> <br>
-    <button class="camera-control" onclick="ShowDisplay();">Show splash </button> <br>
-    <button class="camera-control" onclick="Store();">Create DB (Do it before execute Query) </button> <br>
-    <button class="camera-control" onclick="QueryDB();">Query Select From DB </button> <br>
+    <ul data-role="listview" data-inset="true">
+        <li><a class="listview" onclick="capturePhoto();">Capture Photo</a></li>
+        <li><a class="listview" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">Take Photo From Library</a></li>
+        <li><a class="listview" onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">Take Photo From Album</a></li>
+        <li><a class="listview" onclick="captureAudio();">Capture Audio</a> <br></li>
+        <li><a class="listview" onclick="Accelerometer();">Touch</a> <br></li>
+        <li><a class="listview" onclick="GetGeo();">Get Location</a> <br></li>
+        <li><a class="listview" onclick="checkConnection();">Check Current Connection</a> <br></li>
+        <li><a class="listview" onclick="aboutDevice();">About Device</a> <br></li>
+        <li><a class="listview" onclick="showAlertNotification();">Notification</a> <br></li>
+        <li><a class="listview" onclick="checkLocale();">Name of Locale</a> <br></li>
+        <li><a class="listview" onclick="onappbrowse();">Goto Google.com</a> <br></li>
+        <li><a class="listview" onclick="Compass();">Compass</a> <br></li>
+        <li><a class="listview" onclick="Contacts();">Contacts</a> <br></li>
+        <li><a class="listview" onclick="ReadFile();">Read File</a> <br></li>
+        <li><a class="listview" onclick="WriteFile();">Write File</a> <br></li>
+        <li><a class="listview" onclick="playAudio();">Play media</a> <br></li>
+        <li><a class="listview" onclick="ShowDisplay();">Show splash </a> <br></li>
+        <li><a class="listview" onclick="Store();">Create DB (Do it before execute Query) </a> <br></li>
+        <li><a class="listview" onclick="QueryDB();">Query Select From DB </a> <br></li>
+    </ul>
 
     <p id="geolocation"></p>
     <p id="deviceProperties"></p>

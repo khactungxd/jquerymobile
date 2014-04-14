@@ -109,3 +109,11 @@ body {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.listview {
+    height: 100px;
+    font-size: 40;
+    text-align: left;
+    margin: 0 0 0 0;
+    background-color: #537DA9;
+}
