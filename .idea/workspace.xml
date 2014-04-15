@@ -23,11 +23,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="57" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0076804915" vertical-offset="573" max-vertical-offset="2346">
-              <folding />
+            <state line="7" column="62" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="2074">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,16 +55,16 @@
       <file leaf-file-name="AddHost.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/AddHost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="544">
+            <state line="21" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Host.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Host.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/Host.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="29" selection-start="517" selection-end="517" vertical-scroll-proportion="3.9230769" vertical-offset="306" max-vertical-offset="969">
+            <state line="21" column="36" selection-start="861" selection-end="861" vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -71,7 +73,7 @@
       <file leaf-file-name="phonegapapis.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegapapis.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="478" column="14" selection-start="16177" selection-end="16178" vertical-scroll-proportion="-61.153847" vertical-offset="6536" max-vertical-offset="8755">
+            <state line="5" column="4" selection-start="68" selection-end="162" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="8755">
               <folding />
             </state>
           </provider>
@@ -80,7 +82,7 @@
       <file leaf-file-name="Service.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Service.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="88" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="612">
+            <state line="5" column="4" selection-start="121" selection-end="181" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -130,13 +132,13 @@
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/css/jquery.mobile-1.4.2.css" />
         <option value="$PROJECT_DIR$/HTML/DetailService.html" />
-        <option value="$PROJECT_DIR$/phonegapapis.html" />
         <option value="$PROJECT_DIR$/HTML/DetailHost.html" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/HTML/Host.html" />
-        <option value="$PROJECT_DIR$/HTML/Service.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/phonegapapis.html" />
+        <option value="$PROJECT_DIR$/HTML/Service.html" />
+        <option value="$PROJECT_DIR$/HTML/Host.html" />
       </list>
     </option>
   </component>
@@ -373,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/AddHost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/logo2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -399,13 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonegapapis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="478" column="14" selection-start="16177" selection-end="16178" vertical-scroll-proportion="-61.153847" vertical-offset="6536" max-vertical-offset="8755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/jquery.mobile-1.4.2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4698" column="0" selection-start="245404" selection-end="245404" vertical-scroll-proportion="0.0" vertical-offset="79329" max-vertical-offset="79968">
@@ -420,23 +408,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Service.html">
+    <entry file="file://$PROJECT_DIR$/HTML/AddHost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="88" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="612">
+        <state line="21" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Host.html">
+    <entry file="file://$PROJECT_DIR$/phonegapapis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="517" selection-end="517" vertical-scroll-proportion="3.9230769" vertical-offset="306" max-vertical-offset="969">
+        <state line="5" column="4" selection-start="68" selection-end="162" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="8755">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="57" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0076804915" vertical-offset="573" max-vertical-offset="2346">
+        <state line="7" column="62" selection-start="348" selection-end="348" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="2074">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="121" selection-end="181" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Host.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="36" selection-start="861" selection-end="861" vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
