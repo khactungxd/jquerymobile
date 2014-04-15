@@ -111,9 +111,13 @@ body {
 }
 
 .listview {
-    height: 100px;
+    height: 10%;
     font-size: 40;
     text-align: left;
     margin: 0 0 0 0;
     background-color: #537DA9;
 }
+
+/*.ui-navbar {*/
+    /*height: 60px;*/
+/*}*/
