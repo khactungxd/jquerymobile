@@ -40,16 +40,34 @@
                     switch (parameter) {
                         case (parameter == 2):
                                 $('#tieudepage').html("PhonegapAPIS");
+                                $.mobile.loading( 'show', {
+                                    text: 'loading...',
+                                    textVisible: true,
+                                    theme: 'b',
+                                    html: ""
+                                });
                                 $.get('./phonegapapis.html').success(function(html) {
                                     $('#main-content').html(html);
                                 });
                         case (parameters == 3):
                                 $('#tieudepage').html("tab3");
+                                $.mobile.loading( 'show', {
+                                    text: 'loading...',
+                                    textVisible: true,
+                                    theme: 'b',
+                                    html: ""
+                                });
                                 $.get('./HTML/Service.html').success(function(html) {
                                     $('#main-content').html(html);
                                 });
                         default :
                                 $('#tieudepage').html("Host");
+                                $.mobile.loading( 'show', {
+                                    text: 'loading...',
+                                    textVisible: true,
+                                    theme: 'b',
+                                    html: ""
+                                });
                                 $.get('./HTML/Host.html').success(function(html) {
                                     $('#main-content').html(html);
                                 });
